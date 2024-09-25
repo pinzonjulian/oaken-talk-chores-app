@@ -1,9 +1,26 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  account: one
-  user: one
+single_unicorse:
+  account: unicorse
+  user: unicorse
 
-two:
-  account: two
-  user: two
+couple_rad:
+  account: rad_and_frisky
+  user: rad
+
+couple_frisky:
+  account: rad_and_frisky
+  user: frisky
+
+family_bandit:
+  account: heelers
+  user: bandit
+family_chilli:
+  account: heelers
+  user: chilli
+family_bluey:
+  account: heelers
+  user: bluey
+family_bingo:
+  account: heelers
+  user: bingo

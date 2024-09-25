@@ -1,7 +1,10 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
+unicorse:
+  name: Unicorse
 
-two:
-  name: MyString
+heelers:
+  name: The Healers
+
+rad_and_frisky:
+  name: Rad and Frisky

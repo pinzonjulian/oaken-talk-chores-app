@@ -1,11 +1,16 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  account: one
-  chore: one
-  member: one
+single_mopping_unicorse:
+  account: unicorse
+  chore: mopping
+  member: single_unicorse
 
-two:
-  account: two
-  chore: two
-  member: two
+family_sweeping_bandit:
+  account: heelers
+  chore: sweeping
+  member: family_bandit
+
+family_sweeping_chilli:
+  account: heelers
+  chore: sweeping
+  member: family_chilli

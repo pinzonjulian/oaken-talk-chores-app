@@ -5,7 +5,6 @@ chilli = users.create :chilli, email: "chilli@example.com"
 bluey = users.create :bluey, email: "bluey@example.com"
 bingo = users.create :bingo, email: "bingo@example.com"
 
-
 memberships.create account: heelers, user: bandit
 memberships.create account: heelers, user: chilli
 memberships.create account: heelers, user: bluey

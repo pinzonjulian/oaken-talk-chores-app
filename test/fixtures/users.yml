@@ -1,7 +1,16 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  email: MyString
-
-two:
-  email: MyString
+unicorse:
+  email: unicorse@example.com
+rad:
+  email: rad@example.com
+frisky:
+  email: frisky@example.com
+bandit:
+  email: bandit@example.com
+chilli:
+  email: chilli@example.com
+bluey:
+  email: bluey@example.com
+bingo:
+  email: bingo@example.com

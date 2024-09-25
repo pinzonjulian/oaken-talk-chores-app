@@ -1,9 +1,9 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  price_in_cents: 9.99
+basic:
+  name: Basic
+  price_in_cents: 999
 
-two:
-  name: MyString
-  price_in_cents: 9.99
+pro:
+  name: Pro
+  price_in_cents: 1999
