@@ -1,9 +1,9 @@
 heelers = accounts.create :heelers, name: "The Heelers"
 
-bandit = users.create :bandit, email: "bandit@example.com"
-chilli = users.create :chilli, email: "chilli@example.com"
-bluey = users.create :bluey, email: "bluey@example.com"
-bingo = users.create :bingo, email: "bingo@example.com"
+bandit = users.create :bandit, email: "bandit@oaken.com"
+chilli = users.create :chilli, email: "chilli@oaken.com"
+bluey = users.create :bluey, email: "bluey@oaken.com"
+bingo = users.create :bingo, email: "bingo@oaken.com"
 
 memberships.create account: heelers, user: bandit
 memberships.create account: heelers, user: chilli

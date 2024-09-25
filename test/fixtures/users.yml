@@ -1,16 +1,16 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 unicorse:
-  email: unicorse@example.com
+  email: unicorse@fixtures.com
 rad:
-  email: rad@example.com
+  email: rad@fixtures.com
 frisky:
-  email: frisky@example.com
+  email: frisky@fixtures.com
 bandit:
-  email: bandit@example.com
+  email: bandit@fixtures.com
 chilli:
-  email: chilli@example.com
+  email: chilli@fixtures.com
 bluey:
-  email: bluey@example.com
+  email: bluey@fixtures.com
 bingo:
-  email: bingo@example.com
+  email: bingo@fixtures.com
