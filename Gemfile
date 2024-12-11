@@ -58,4 +58,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "oaken", "~> 0.7.0"
+gem "oaken", "~> 0.7.1"
